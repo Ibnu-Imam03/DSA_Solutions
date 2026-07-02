@@ -1,0 +1,5 @@
+h=input ()
+n=set(input(). split())
+v=input ()
+b=set(input(). split())
+print (len(n|b))
